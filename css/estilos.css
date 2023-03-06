@@ -1,0 +1,54 @@
+*  {
+    color: blue;
+
+}
+
+
+
+p, span {color: dodgerblue;
+    width: 300px;
+}
+h1 {
+    border: 1px solid black;
+    
+    font-family: 'Libre Baskerville', serif;;
+
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    padding-right: 50px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+    font-weight: bold;
+    color: indigo;
+}    
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #Popo { 
+ color: rebeccapurple;
+ font-weight: 5px;
+border: 10px solid pink;
+  }
+
+  .estaesmiclase {
+    font-weight: bold;
+    color: violet;
+}
+
+section+h1 {
+    font-weight: 400px;
+
+}
+
+body {
+ background-color: lightgrey;
+}
